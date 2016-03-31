@@ -8,7 +8,7 @@ Some introduction here, adding some changes
 ## Purpose
 ## Depolyment
 ## How to contribute
-Sample website with plenty of files for demos
+Please fork this repository and then issue Pull request for review
 
 
 ###Copyright
