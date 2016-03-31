@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Xue Tong xtong@test.com @hai
 
 # THANKS
 
