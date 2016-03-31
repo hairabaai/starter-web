@@ -9,3 +9,7 @@ Some introduction here, adding some changes
 ## Depolyment
 ## How to contribute
 Sample website with plenty of files for demos
+
+
+###Copyright
+2016 Git training
